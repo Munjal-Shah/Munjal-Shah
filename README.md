@@ -4,15 +4,7 @@ I'm a Full Stack Developer at Skill Relays working on [Web App](https://www.skil
 
 
 ## Get in touch
-- Linkedin: https://www.linkedin.com/in/munjalshah05/
-- Personal site: https://www.shahmunjal.com
-- Twitter: https://twitter.com/shah_munjal96
 
-<a href="https://github.com/Munjal-Shah">
-	<img width="32" align="left"
-		 alt="My GitHub profile"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
-</a>
 <a href="https://www.linkedin.com/in/munjalshah05/">
 	<img width="32" align="left"
 		 alt="My LinkedIn profile"
@@ -23,16 +15,11 @@ I'm a Full Stack Developer at Skill Relays working on [Web App](https://www.skil
 		 alt="My Twitter profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg">
 </a>
-<!--
-<br/><br/>
-
-[github]: https://github.com/you-create
-[dribbble]: https://dribbble.com/you_create
-[unsplash]: https://unsplash.com/@you_create
-[medium]: https://medium.com/@you_create
-[openprocessing]: https://www.openprocessing.org/user/206009
-[instagram]: https://www.instagram.com/you_create.designs
--->
+<a href="https://www.shahmunjal.com/">
+	<img width="32" align="left"
+		 alt="My Website"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googleearth.svg">
+</a>
 
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Munjal-Shah&show_icons=true&include_all_commits=true)](https://github.com/Munjal-Shah/github-readme-stats)
